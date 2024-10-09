@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.smarthome","c":"ThermoSetX19","l":"getTemperature()"},{"p":"com.smarthome","c":"ThermoSetX19","l":"setTemperature(double)"},{"p":"com.smarthome","c":"ThermoSetX19","l":"ThermoSetX19(double)","u":"%3Cinit%3E(double)"}];updateSearchResults();
