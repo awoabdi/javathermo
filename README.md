@@ -11,4 +11,4 @@ This repository contains the JavaDoc documentation for the `ThermoSetX19` class 
 
 ## Accessing the Documentation
 You can view the documentation at:
-[GitHub Pages Link](https://<yourusername>.github.io/<yourrepository>/docs/thermoSetX19.html)
+https://awoabdi.github.io/javathermo/
